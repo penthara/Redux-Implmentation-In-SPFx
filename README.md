@@ -3,8 +3,7 @@
 This Repo contains code on how to implement redux in SPFx solution.
 <br />
 This solution was made to give a better understanding for the blog.
-<br/>
-[Go to the Support Web Site](https://support.west-wind.com)
+
 
 ## Used SharePoint Framework Version
 
